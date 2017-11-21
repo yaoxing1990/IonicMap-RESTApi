@@ -1,0 +1,13 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "map_data_rest_api",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "Xing Yao",
+  "license": "ISC"
+}
